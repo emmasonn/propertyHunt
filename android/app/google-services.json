@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41324374842",
+    "project_id": "expertpropertyhunt",
+    "storage_bucket": "expertpropertyhunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41324374842:android:4aa936a7b1b443554bfe03",
+        "android_client_info": {
+          "package_name": "com.beacon.properties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41324374842-h3vlvosc9kk3lcns25u00n46hr5vrj2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxRPHDn0rTT8ZKujE54sojRtG3DMXUOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41324374842-h3vlvosc9kk3lcns25u00n46hr5vrj2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
